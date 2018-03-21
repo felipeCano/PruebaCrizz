@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PruebaCrizz</string>
+    <string name="log_in_username_hint">User Name</string>
+    <string name="log_in_password_hint">Password</string>
+    <string name="log_in_help">Help</string>
+    <string name="log_in_button_title">He we go!</string>
+    <string name="log_in_enroll_now">New User</string>
+    <string name="log_in_title">Crizz Prueba</string>
+    <string name="log_in_sub_title">Vacations</string>
+    <string name="new_vacations_button_title">Save</string>
+    <string name="btn_delete_imagen">Delete</string>
+    <string name="btn_share_imagen">Share</string>
+    <string name="btn_save_local">Save</string>
+</resources>
